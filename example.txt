@@ -1,0 +1,9 @@
+adidas https://www.adidas.com/us/ultraboost-5.0-dna-shoes/FY9349.html 180 UltraBoost_5.0_dna_white
+adidas https://www.adidas.com/us/ultraboost-4.0-dna-shoes/FY9120.html 180 UltraBoost_4.0_dna_white
+adidas https://www.adidas.com/us/ultraboost-4.0-dna-shoes/FY9121.html 180 UltraBoost_4.0_dna_coreblack
+adidas https://www.adidas.com/us/ultraboost-4.0-dna-shoes/FY9318.html 180 UltraBoost_4.0_dna_black_white_sole
+adidas https://www.adidas.com/us/nmd_r1-shoes/FV9015.html 140 NMD_R1_coreblack
+adidas https://www.adidas.com/us/nmd_r1-shoes/FY9384.html 140 NMD_R1_white
+
+
+
